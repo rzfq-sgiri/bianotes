@@ -2,8 +2,8 @@
 Knowledge shares matters
 
 ### SUBJEK BIA
-- [Nota Cara Install Python](./001.md)
-- [Predictive Model](./002.md)
+1.  [Nota Cara Install Python](./001.md)
+2.  [Predictive Model](./002.md)
 
 ### SUBJEK SECURITY
-- [Micro-segmentation in Zero Trust](./microsegmentation.html)
+1. [Micro-segmentation in Zero Trust](./microsegmentation.html)
