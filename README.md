@@ -5,3 +5,8 @@ Knowledge shares matters
 [Nota Cara Install Python](./001.md)
 
 [Predictive Model](./002.md)
+
+
+### SUBJEK SECURITY
+
+[Microsegmentation in Zero Trust](./microsegmentation.html)
