@@ -1,3 +1,3 @@
 # risz.github.io
 
-Cara Install Python [Nota INstall Python-Prophet & Scikit-]
+Cara Install Python [Nota Install Python-Prophet & Scikit-learn Predictive Model.md]
