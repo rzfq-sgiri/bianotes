@@ -1,4 +1,4 @@
-# risz.github.io
+# riszafq github io
 Knowledge shares matters
 
 ### SUBJEK BIA
