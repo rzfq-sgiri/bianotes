@@ -1,0 +1,47 @@
+# Nota Install Python-Prophet & Scikit-learn Predictive Model
+>Just a little bit of patience, :)
+
+## 1. Muat Turun Python:
+Lawati laman web rasmi Python: https://www.python.org/downloads/
+Muat turun versi terkini untuk sistem operasi anda (Windows/Mac/Linux).
+
+**Take note:**
+Sila pastikan install dalam drive D: untuk elakkan C: penuh.
+
+
+## 2. Pasang Python:
+Penting: Semasa pemasangan, pastikan anda tick pilihan "Add Python to PATH".
+Klik "Install Now" dan ikuti langkah seterusnya sehingga selesai. 
+Masa nak install pilih Advanced, dekat sini kita boleh customize banyak benda. Pilih Path/Directory etc.
+
+##### Sahkan Pemasangan:
+Buka Command Prompt (Windows), taip:
+```sh
+python --version
+```
+## 3. Pasang Pip:
+Check Pip dah install ke belum:
+```sh
+pip --version
+```
+Kalau tak ada, buka Command Prompt (Windows), taip:
+```sh
+python -m ensurepip --upgrade
+```
+## 4. Pasang Prophet dan Scikit-learn
+Pasang Model Predictive. Kita pasang dua terus Prophet dan Scikit-learn:
+```sh
+pip install prophet pandas
+pip install cmdstanpy
+pip install numpy scikit-learn
+```
+Kemudian, test sama ada prophet berjaya di install. Taip python di cmd kemudian masukkan kod:
+```sh
+from prophet import Prophet
+print("Prophet berjaya dipasang!")
+```
+## 5. Pasang Visual Plot
+Dalam python boleh jana graf guna matplotlib, so ada baiknya kita install sekali:
+```sh
+pip install matplotlib pandas prophet
+```
