@@ -6,4 +6,4 @@ Knowledge shares matters
 2.  [Predictive Model](./002.md)
 
 ### SUBJEK SECURITY
-1. [Micro-segmentation in Zero Trust](./microsegmentation.html)
+1. Mindmap --> [Micro-segmentation in Zero Trust](./microsegmentation.html)
